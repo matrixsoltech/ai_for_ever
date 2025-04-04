@@ -2,6 +2,10 @@
 
 Welcome to the AI For Ever project! This repository is dedicated to AI development and exploration.
 
+## 👨‍💻 Author
+
+**Mohamed Samir**
+
 ## 🚀 About The Project
 
 This project aims to explore and implement various artificial intelligence concepts and applications.
@@ -61,6 +65,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Contact
 
+**Author:** Mohamed Samir
 Project Link: [https://github.com/matrixsoltech/ai_for_ever](https://github.com/matrixsoltech/ai_for_ever)
 
 ---
